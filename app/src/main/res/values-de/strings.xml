@@ -688,7 +688,7 @@
     <string name="main_pending_upload_title">Ausstehender Upload</string>
     <string name="main_pending_upload_message">%1$s wurde auf Gerät %2$s (%3$s) gespielt, aber dieser Speicherstand ist noch nicht in der Cloud (Upload nicht gestartet). Du kannst trotzdem spielen, es kann jedoch zu Konflikten kommen, wenn dein vorheriger Speicherstand noch hochgeladen wird.</string>
     <string name="main_app_session_suspended">App-Sitzung unterbrochen. Bitte die App neu starten.</string>
-    <string name="main_pending_operation_none">Empfangene ausstehende Remote-Operationen mit 'none'. Bitte App neu starten.</string>
+    <string name="main_pending_operation_none">Empfangene ausstehende Remote-Operationen mit \'none\'. Bitte App neu starten.</string>
     <string name="main_multiple_pending_operations">Mehrere ausstehende Remote-Operationen, später erneut versuchen. Bitte App neu starten.</string>
     <!-- Container Config Dialog -->
     <string name="container_config_title">Container konfigurieren</string>
@@ -811,10 +811,10 @@
     <!-- Wine/Proton Manager -->
     <string name="wine_proton_manager">Wine/Proton-Manager</string>
     <string name="wine_proton_bionic_notice_header">Nur Bionic-Images</string>
-    <string name="wine_proton_info_description">Importiere benutzerdefinierte Wine- oder Proton-Versionen für Bionic-Container. Dateiname muss mit 'wine' oder 'proton' beginnen (Groß/Kleinschreibung egal). Pakete müssen bin/, lib/ und prefixPack.txz enthalten. Nur bionic-kompatible Importe.</string>
+    <string name="wine_proton_info_description">Importiere benutzerdefinierte Wine- oder Proton-Versionen für Bionic-Container. Dateiname muss mit \'wine\' oder \'proton\' beginnen (Groß/Kleinschreibung egal). Pakete müssen bin/, lib/, und prefixPack.txz enthalten. Nur bionic-kompatible Importe.</string>
     <string name="win_proton_example">Beispiel: "proton-10.0-ARM64ec.wcp"</string>
     <string name="wine_proton_import_package">Wine/Proton-Paket importieren</string>
-    <string name="wine_proton_select_file_description">Wähle eine .wcp-Datei (Dateiname beginnt mit 'wine' oder 'proton')</string>
+    <string name="wine_proton_select_file_description">Wähle eine .wcp-Datei (Dateiname beginnt mit \'wine\' oder \'proton\')</string>
     <string name="wine_proton_import_wcp_button">.wcp-Paket importieren</string>
     <string name="wine_proton_processing">Verarbeite…</string>
     <string name="wine_proton_package_details">Paketdetails</string>
@@ -841,7 +841,7 @@
     <string name="cancel_import_keep">Nein, Import behalten</string>
     <!-- Wine/Proton Manager - Status Messages -->
     <string name="wine_proton_extracting">Paket wird extrahiert und geprüft (kann bei großen Dateien 2-3 Minuten dauern)…</string>
-    <string name="wine_proton_filename_error">Dateiname muss mit 'wine' oder 'proton' beginnen</string>
+    <string name="wine_proton_filename_error">Dateiname muss mit \'wine\' oder \'proton\' beginnen</string>
     <string name="wine_proton_file_empty">Datei ist leer oder kann nicht gelesen werden</string>
     <string name="wine_proton_cannot_open">Datei kann nicht geöffnet werden</string>
     <string name="wine_proton_failed_file_picker">Dateiauswahl konnte nicht geöffnet werden: %s</string>
