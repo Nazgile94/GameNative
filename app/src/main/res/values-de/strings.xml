@@ -750,7 +750,7 @@
     <string name="library_layout_list">Liste</string>
     <string name="library_layout_capsule">Kapsel</string>
     <string name="library_layout_hero">Hero</string>
-    <string name="library_search_placeholder">Suche deine Spiele…</string>
+    <string name="library_search_placeholder">Durchsuche deine Spiele…</string>
     <string name="library_search_description">Suchen</string>
     <string name="library_search_clear">Suche leeren</string>
     <string name="library_no_items">Keine Einträge zur Auswahl</string>
